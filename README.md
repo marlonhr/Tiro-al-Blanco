@@ -6,12 +6,13 @@ Small and simple game made with Swift for iPhone and iPad.
 
 ![](shoot-the-number.GIF)
 
-*** Mission ***
 
-Your mission is to find the number in the shortest possible time. You will be rewarded with a great reward if you succeed. 
-Good Luck!!!
+*** Misión ***
 
-1. If you hit the target, you will gain an extra life.
-2. With less than 10 points remaining, 5 seconds will be added to your time.
-3. Compete against your friends to see who gets the most points
+Tu misión es encontrar el número en el menor tiempo posible. Serás recompensado con un gran premio si tienes éxito.
+Buena suerte !!!
+
+1. Si alcanzas el objetivo, obtendrás una vida extra.
+2. A menos de 5 puntos del objetivo, ganaras 5 segundos a tu tiempo.
+3. Compite contra tus amigos para ver quién gana más puntos
 
