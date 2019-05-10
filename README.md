@@ -14,10 +14,12 @@ Buena suerte !!!
 
 1. Si alcanzas el objetivo, obtendrás una vida extra.
 2. A menos de 5 puntos del objetivo, ganaras 5 segundos a tu tiempo.
-3. Compite contra tus amigos para ver quién gana más puntos
+3. Compite contra tus amigos para ver quién gana más puntos.
 
 
-#Features
 
-. Auto - Layout.
+
+# Features
+
+. Auto - Layout
 . Quartz Core
